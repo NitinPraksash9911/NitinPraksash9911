@@ -1,4 +1,4 @@
-### Hello Folks, I'm Nitin Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello Folks, I'm Nitin Prakash  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=readerlook.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://readerlook.com/category/technology/)
 
@@ -13,6 +13,7 @@
 
 
 ### Connect with me:
+
 <a href="https://www.linkedin.com/in/nitin-prakash9911">
   <img align="left" alt="Nitin Prakash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,10 +31,12 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 <br />
 
 ---
+### Github Stats:
 
 ![Nitin’s github stats](https://github-readme-stats.vercel.app/api?username=NitinPraksash9911&show_icons=true&theme=dark)
 
