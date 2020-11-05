@@ -29,3 +29,11 @@
 <br />
 
 ---
+
+![Nitin’s github stats](https://github-readme-stats.vercel.app/api?username=NitinPraksash9911&show_icons=true&theme=dark)
+
+<br/>
+
+<a href="https://github.com/NitinPraksash9911/NitinPraksash9911">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinPraksash9911&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f24" />
+</a>
