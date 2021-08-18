@@ -1,7 +1,6 @@
 ### Hello Folks, I'm Nitin Prakash  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=readerlook.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://readerlook.com/category/technology/)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NitinPraksash9911&label=Profile%20views&color=129e00&style=plastic" alt="NitinPraksash9911" /> </p>
 
 ## I am a Software Engineer
 
